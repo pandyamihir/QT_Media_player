@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/Pause.png</file>
+        <file>Icons/Play.png</file>
+        <file>Icons/Next.png</file>
+        <file>Icons/Shuffle.png</file>
+        <file>Icons/Prev.png</file>
+        <file>Icons/Default.jpeg</file>
+        <file>Icons/Stop.png</file>
+        <file>Icons/Bg_Image_1.jpg</file>
+        <file>Icons/Bg_Image_2.jpg</file>
+        <file>Icons/Bg_Image_3.jpg</file>
+        <file>Icons/Bg_Image.jpg</file>
+        <file>Icons/Mute.png</file>
+        <file>Icons/Unmute.png</file>
+        <file>Icons/Vol_down.png</file>
+        <file>Icons/Vol_up.png</file>
+    </qresource>
+</RCC>
